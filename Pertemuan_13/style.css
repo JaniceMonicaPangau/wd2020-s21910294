@@ -1,0 +1,24 @@
+.img1 {
+    display: block;
+    background-color: slategray;
+    padding: 20px;
+    border: 10px solid salmon;
+    margin: 20px;
+}
+
+.img2 {
+    display: block;
+    background-color: slategray;
+    padding: 20px;
+    border: 10px solid salmon;
+    margin-left: 220px;
+}
+
+.img3 {
+    display: block;
+    background-color: slategray;
+    padding: 20px;
+    border: 10px solid salmon;
+    margin-left: 448px;
+}
+}
